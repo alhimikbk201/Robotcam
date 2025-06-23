@@ -1,0 +1,11 @@
+{
+  "name": "robot-client",
+  "version-string": "0.0.1",
+  "dependencies": [
+    "qt6-base",
+    "spdlog"
+  ],
+  "overrides": [
+    { "name": "qt6-base", "version>=" : "6.7.0" }
+  ]
+}
