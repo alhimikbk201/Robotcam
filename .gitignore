@@ -1,0 +1,12 @@
+# CMake build
+build*/
+CMakeFiles/
+CMakeCache.txt
+*.vcxproj*
+
+# vcpkg artifacts
+vcpkg_installed/
+
+# Qt Creator / CLion misc
+.idea/
+*.user
